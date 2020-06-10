@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+
+/*main section*/
+
+.main {
+    width: 100%;
+}
+h1 {
+    padding: 20px 10px;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.link {
+    width: 100%;
+
+}
+.link a {
+    color: aquamarine;
+    font-size: 16px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+
+.video {
+    padding: 30px 0;
+    width: 100%;
+}
+ video {
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+ }
+
+ /*features section*/
+
+ h2 {
+     font-family: Verdana;
+     font-weight: 300;
+     font-size: 42px;
+     text-align: center;
+     color: white;
+ }
+
+ .feature p {
+     color: gray;
+     text-align: center;
+     font-family: Verdana;
+     font-size: 21px;
+ }
+
+ .feature img {
+     text-align: center;
+     padding: 10px 50px;
+     margin: auto;
+     display: block;
+     object-fit: contain;
+ }
+
+/*coming soon section*/
+
+.soon-section {
+    width: 100%;
+    padding-top: 40px;
+}
+
+.soon-section img {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+ /*footer*/
+
+footer {
+    text-align: right;
+    padding-right: 10px;
+    color: gray;
+
+}
+
+footer p {
+    font-family: Verdana;
+}
+
